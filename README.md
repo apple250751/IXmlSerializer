@@ -1,2 +1,2 @@
 # IXmlSerializer
-自用的c# xml序列化程序。
+练习 - 自用封装xml的简化版序列化程序。
